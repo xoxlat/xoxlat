@@ -32,7 +32,7 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 ```bash
 git clone https://github.com/xoxlat/xoxlat
-cd naze
+cd xoxlat
 npm install
 ```
 
@@ -53,7 +53,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 git clone https://github.com/xoxlat/xoxlat
-cd naze
+cd xoxlat
 npm install
 ```
 
